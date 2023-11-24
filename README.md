@@ -35,7 +35,8 @@ Resolverlo utilizando manejo de estados.
 
 ### Screenshot
 
-![image](https://github.com/rosslabarca/FirstReact-product_e-commerce-/assets/100976050/19fc03a9-241e-469d-a434-e88bae27157b)
+![image](https://github.com/rosslabarca/product_ecommerceReact/assets/100976050/c9265101-03a1-489a-8057-75afa405f999)
+
 
 ## Technologies
 ***
