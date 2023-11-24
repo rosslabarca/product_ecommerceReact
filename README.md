@@ -45,7 +45,7 @@ NODEjs (https://nodejs.org/en) Version 20.3
 Simple React Snippets (https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) Version 1.2.7
 ES7+ React/Redux/React-Native snippets (https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Version 	4.4.3
 Vite (https://vitejs.dev/guide/)  configuración en la terminal Go Comand $ npm create vite@latest
-Netlify https://app.netlify.com/sites/firstreactproductecommerce/configuration/general
+Netlify https://app.netlify.com/sites/productecommercereact/configuration/general
 
 ## Installation
 ***
@@ -65,4 +65,4 @@ Con respecto a Vite, fue por medio de la terminal de VSC, mediante los comando d
 6. Crear 2 carpetas para agregar los componentes secundarios (respectivamente) renderizado a main.jsx, llamados Header.jsx, y Banner.jsx, de igual manera con los .css
 7. Subir los archivos a GitHub.
 8. Netlify para hacer el deployed, a través de la opción de linkear los archivos de GitHub, el resultado fue: 
-
+https://productecommercereact.netlify.app/
