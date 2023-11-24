@@ -1,0 +1,21 @@
+
+body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url(/images/fondo.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  header, .App{
+    font-size: 18px;
+  }
+
+  #root {
+    padding: 10px;
+  }
+}

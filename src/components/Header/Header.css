@@ -1,0 +1,49 @@
+header {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    background-color: rgb(232, 146, 193);
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 50px;
+    
+}
+
+nav {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+a {
+    color: rgb(243, 239, 239);
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+nav a:hover {
+    background-color: rgba(255, 255, 255, 0.568);
+    border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+    header {
+      padding: 10px;
+      font-size: 18px;
+    }
+  
+    img {
+      width: 50px;
+      height: 50px;
+    }
+
+    a {
+        font-size: 18px;
+    }
+  }
